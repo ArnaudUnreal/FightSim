@@ -10,7 +10,7 @@ Bienvenue à toi, Artiste !! Tu vas devoir créer un guerrier capable de se batt
   - courir
   - s'accroupir
   - marcher accroupi (sneak walk)
-  - sauter : 3 étapes -> impulsion, en l'air, atterrissage
+  - sauter : 3 étapes -> le saut doit être décomposé en 3 animations : l'impulsion du saut, quand il est en l'air, et quand il atterit.
   - donner un coup de poing (punch)
   - donner un coup de pied (kick)
   - sauter
